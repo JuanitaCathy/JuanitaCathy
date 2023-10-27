@@ -16,6 +16,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuanitaCathy&theme=tokyonight-duo&date_format=n%2Fj%5B%2FY%5D&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
+# Badges
+
+[![An image of @juanitacathy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/juanitacathy)](https://holopin.io/@juanitacathy)
+
 # Languages
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuanitaCathy&theme=tokyonight)](https://github.com/JuanitaCathy/github-readme-stats)
