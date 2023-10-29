@@ -18,6 +18,8 @@
 
 # Badges
 
+## Hacktoberfest 2023
+
 [![An image of @juanitacathy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/juanitacathy)](https://holopin.io/@juanitacathy)
 
 # Languages
