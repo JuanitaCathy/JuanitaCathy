@@ -10,7 +10,7 @@
 -🌱 I’m currently learning **Software Development**<br><br>
 -💬 Ask me about **Computer Networks**<br><br>
 -📫 How to reach me **juanitacathy486@gmail.com**<br><br>
--👨‍💻 All of my projects are available at **https://github.com/JuanitaCathy**<br><br>
+-👨‍💻 All of my projects are available [here](https://github.com/JuanitaCathy)<br><br>
 -📝 I regularly write articles on **nerdykat.hashnode.dev** <br><br>
 
 
