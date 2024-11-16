@@ -7,9 +7,9 @@
 </a>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> About Me:
--🌱 I’m currently learning **Software Development**<br><br>
--💬 Ask me about **Computer Networks**<br><br>
--📫 How to reach me **juanitacathy486@gmail.com**<br><br>
+-🌱 I’m currently learning **intersection of ML with the Quantum world**<br><br>
+-💬 Ask me about **Full Stack Development, Computer Networking Concepts and more**<br><br>
+-📫 Get in touch with me **juanitacathy486@gmail.com**<br><br>
 -👨‍💻 All of my projects are available [here](https://github.com/JuanitaCathy)<br><br>
 -📝 I regularly write articles on **nerdykat.hashnode.dev** <br><br>
 
