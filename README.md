@@ -7,12 +7,11 @@
 </a>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> About Me:
--🌱 I’m currently learning **intersection of ML with the Quantum world**<br><br>
+-🌱 I’m currently learning **intersection of AI-ML with the Quantum world**<br><br>
 -💬 Ask me about **Full Stack Development, Computer Networking Concepts and more**<br><br>
--📫 Get in touch with me **juanitacathy486@gmail.com**<br><br>
+-📫 Get in touch with me **juanitacathy486@gmail.com** or [**LinkedIn**](https://linkedin.com/in/juanita-cathy) <br><br>
 -👨‍💻 All of my projects are available [here](https://github.com/JuanitaCathy)<br><br>
--📝 I regularly write articles on **nerdykat.hashnode.dev** <br><br>
-
+-📝 I regularly write articles on my blog page **[nerdykat.hashnode.dev](https://nerdykat.hashnode.dev/)** and **https://dev.to/juanitacathy** <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanita-cathy) 
