@@ -10,7 +10,7 @@
 -🌱 I’m currently learning **intersection of AI-ML with the Quantum world**<br><br>
 -💬 Ask me about **Full Stack Development, Computer Networking Concepts and more**<br><br>
 -📫 Get in touch with me **juanitacathy486@gmail.com** or [**LinkedIn**](https://linkedin.com/in/juanita-cathy) <br><br>
--👨‍💻 All of my projects are available [here](https://github.com/JuanitaCathy)<br><br>
+-👨‍💻 All of my projects are available [here](https://github.com/JuanitaCathy). Some demos are on [Youtube](https://www.youtube.com/@JuanitaCathy/videos)<br><br>
 -📝 I regularly write articles on my blog page **[nerdykat.hashnode.dev](https://nerdykat.hashnode.dev/)** and **https://dev.to/juanitacathy** <br><br>
 
 ## 🌐 Socials:
